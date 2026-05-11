@@ -7,7 +7,8 @@
   <version>3.0-RELEASE</version>
   <name>01-maven-cloudaseem-app</name>
   <url>http://maven.apache.org</url>
- 
+
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
