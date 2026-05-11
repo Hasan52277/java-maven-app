@@ -2,6 +2,7 @@ Maven is a build automation tool primarily used for Java projects. It simplifies
 
 Here's how Maven is typically used in a Java application:
 
+
 Project Structure: Maven imposes a standard project structure. Your source code goes into the src/main/java directory, resources into src/main/resources, and test code into src/test/java, with resources for testing in src/test/resources.
 
 POM (Project Object Model): Maven uses a Project Object Model (POM) file, typically named pom.xml, to describe the project configuration. This XML file contains project-specific information such as dependencies, plugins, and other settings. It's the heart of a Maven project.
